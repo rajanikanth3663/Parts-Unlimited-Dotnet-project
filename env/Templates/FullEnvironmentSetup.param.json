@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "WebsiteName": {
-            "value": ""
+            "value": "Rajaniws01"
         },
         "PartsUnlimitedServerName": {
-            "value": ""
+            "value": "Rajanisql01"
         },
         "PartsUnlimitedHostingPlanName": {
-            "value": ""
+            "value": "Rajanihp01"
         },
         "CdnStorageAccountName": {
             "value": ""
